@@ -1,7 +1,8 @@
 <h1 align="center">Hola, soy Tamara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
-🚀 Construyendo mis primeros proyectos  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C52B0E&width=435&lines=Construyendo+mis+primeros+proyectos" alt="Typing SVG"/>
+</p>
 
 ## 👩🏻‍💻 Sobre mí
 

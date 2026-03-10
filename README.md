@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Tamara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**tamorillo/tamorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
+🚀 Construyendo mis primeros proyectos  
 
-Here are some ideas to get you started:
+## 👩🏻‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRhOXl6bmt2cjV2NmMyNGRoanpwYWdhM2RuYnRvYmdyNmxwaHBhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;"/>
+  
+🌱 Actualmente aprendiendo Java, Python y explorando el mundo de Flutter y Dart.
+
+📚 Con curiosidad constante por aprender y mejorar. 
+
+🎯 Sobreviviendo a los bugs mientras aprendo a programar. 
+
+⚡ Dato curioso: puedo pasar horas buscando un bug… y al final era un `;`
+</div><br>
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,mysql,flutter,dart,html,css" />
+</div><br><br>
+
+
+>  Primero hazlo funcionar, luego hazlo bonito.

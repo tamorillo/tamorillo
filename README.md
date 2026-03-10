@@ -1,4 +1,5 @@
-<h1 align="center">Hola, soy Tamara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Tamara <img src="https://media.tenor.com/B_3q4fnaCLgAAAAi/ookun-animax.gif" width="45"></h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C52B0E&width=435&lines=Construyendo+mis+primeros+proyectos" alt="Typing SVG"/>
